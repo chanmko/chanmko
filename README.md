@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @chanmko
-- 👀 I’m interested in learning new languages and cooking.
+
